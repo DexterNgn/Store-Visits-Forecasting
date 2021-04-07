@@ -8,3 +8,6 @@ We have three main data sets as below. As the raw data was very heavy and compli
 -	Store visits data of 2016 (train_restaurant_visitors.csv): provides such data as date of visits, type of restaurant/store, latitude and longitude of the store, and the number of visitors to each store by date.
 -	Holiday information in Japan (holidays_data.csv): provides different holiday names in Japan by date.
 -	Weather data in 2016 (new_weather_data2.csv): provides a wide variety of weather attributes in each day, in terms of key categories: temperature, humidity, rain, sunshine, snow, and wind.
+
+## Article:
+https://towardsdatascience.com/forecasting-store-traffic-using-feature-selection-with-sklearn-and-pandas-in-python-6a1feddebd74
